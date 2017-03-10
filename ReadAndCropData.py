@@ -1,3 +1,4 @@
+# the code is used  to read images from cvs(BCDR)file and crop some patches in each image;
 import csv
 import scipy.io as io
 from PIL import Image, ImageDraw
